@@ -1,6 +1,6 @@
 # React Employee Directory
 
-## Example: 
+## Example: https://react-employee-directory97.herokuapp.com/
 
 ## API used:
 * randomuser.me 
